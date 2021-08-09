@@ -1,3 +1,3 @@
-### How to Commit
+### UC Berkeley MSSE - CHEM 280 Lessons (August 2020)
 
-### How to Add Branch
+This repository contains git-lessons for Masters of MSSE taught by UC Berkeley.
